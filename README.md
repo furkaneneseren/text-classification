@@ -17,11 +17,6 @@ processing methods will be used. The dataset in this project is a public dataset
 - Logistic Regression
 
 
-
-## Dataset
-
- - [Medical Transcriptions](https://www.mtsamples.com/)
-
 ## Screenshots
 
 | ![t-sne_plot](screen-shots/t-sne_plot.png) |
@@ -32,3 +27,6 @@ processing methods will be used. The dataset in this project is a public dataset
 | :--:|
 | *Classification Scores* |
 
+## Dataset
+
+ - [Medical Transcriptions](https://www.mtsamples.com/)
